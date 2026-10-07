@@ -1,188 +1,178 @@
-# 👋 Hi, I'm Rohit Rawat
+<!-- Banner -->
+<div align="center">
 
-### Senior Full Stack Web Developer | Scalable Systems | AI-Powered Applications
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rohit%20Rawat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI-Powered%20Products&descSize=18&descAlignY=58" alt="Banner" />
 
-💻 Full Stack Web Developer focused on building modern, scalable, and production-ready web applications.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+scalable+web+apps+with+Next.js+%26+Node.js;I+integrate+AI+into+real-world+products;Clean+architecture.+Secure+APIs.+Fast+UIs." alt="Typing SVG" />
+</a>
 
-I specialize in designing end-to-end web solutions, from responsive frontend experiences to robust backend architectures, secure APIs, and database-driven systems. I enjoy transforming complex real-world problems into clean, maintainable, and high-performance software.
+<br/>
 
-🚀 My development journey is driven by continuous learning, engineering best practices, and building products that create real value.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rawat-78533b334)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rawat41161@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-22c55e?style=for-the-badge&logo=readme&logoColor=white)](https://your-resume-link.com)
 
----
-
-## 💫 About Me
-
-* 👨‍💻 Full Stack Web Developer passionate about scalable software architecture.
-* ⚡ Experienced with JavaScript, React.js, Next.js, Node.js, Express.js, and MongoDB.
-* 🏗️ Building modern web applications with clean architecture and maintainable code.
-* 🤖 Exploring AI integration, intelligent automation, and AI-powered products.
-* 🔐 Interested in secure authentication, REST APIs, payment integration, and backend systems.
-* 📚 Continuously improving my knowledge of system design, databases, and software engineering.
-* 🤝 Open to collaborating on innovative projects and contributing to open-source.
-* 🎯 Focused on writing reliable code and solving real-world engineering challenges.
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rohit-rawat-78533b334)
+I'm a **full stack developer** who enjoys taking an idea from a blank editor to a deployed, production-ready product, covering responsive UIs, secure APIs, databases, payments and AI features.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rohit.rawat41161@gmail.com)
+```ts
+const rohit = {
+  role: "Full Stack Developer",
+  stack: ["Next.js", "React", "TypeScript", "Node.js", "MongoDB", "PostgreSQL"],
+  aiTools: ["OpenAI", "Google Gemini"],
+  currentlyLearning: ["System Design", "Scalable Backend Architecture", "Testing & CI/CD"],
+  openTo: ["Internships", "Full-time roles", "Freelance", "Open-source"],
+  funFact: "I debug best after the second coffee ☕",
+};
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rohitrawat18)
+- 🔭 Building **AI-powered full stack products** end to end
+- 🔐 Strong interest in **auth, REST APIs, payments and backend design**
+- 🌱 Leveling up in **system design, databases and DevOps**
+- 🤝 Open to collaborating on **open-source** and innovative projects
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
-### Frontend Development
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+| Area | Technologies |
+|---|---|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square) |
+| **AI & Services** | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-
-### AI, Cloud & Integrations
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white)
-
-### Programming Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-### Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 RoyalCart — Full Stack E-Commerce Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A modern e-commerce platform designed to deliver a seamless online shopping experience.
+### 🛒 RoyalCart
+**Full stack e-commerce platform**
 
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS • MongoDB • Mongoose • Clerk • Payment Integration
+Product catalog, cart, orders, secure auth and payments in a fast, responsive storefront.
 
-**Key Features:**
+`Next.js` `TypeScript` `Tailwind` `MongoDB` `Clerk` `Payments`
 
-* Product browsing and category management
-* Secure user authentication
-* Shopping cart and order management
-* Payment gateway integration
-* Responsive and modern UI
+- ✅ Category & product management
+- ✅ Cart and order flow
+- ✅ Payment gateway integration
 
----
+[🔗 Live Demo](https://your-demo-link.com) · [📂 Source Code](https://github.com/rohitrawat18/royalcart)
 
-### 🤖 JobPilot AI — AI-Powered Job Application Platform
+</td>
+<td width="50%" valign="top">
 
-An intelligent job application platform designed to help users discover relevant job opportunities and manage their applications.
+### 🤖 JobPilot AI
+**AI-powered job application platform**
 
-**Tech Stack:** Next.js • TypeScript • MongoDB • Clerk • OpenAI • Recharts
+Helps users find relevant jobs, match them to their resume and track every application.
 
-**Key Features:**
+`Next.js` `TypeScript` `MongoDB` `Clerk` `OpenAI` `Recharts`
 
-* AI-powered job discovery
-* Resume-based job matching
-* Application tracking dashboard
-* AI-assisted career workflows
-* Data visualization and analytics
+- ✅ Resume-based job matching
+- ✅ Application tracking dashboard
+- ✅ Analytics & visualizations
 
----
+[🔗 Live Demo](https://your-demo-link.com) · [📂 Source Code](https://github.com/rohitrawat18/jobpilot-ai)
 
-### 💰 Expensio AI — Smart Finance Management
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A finance management application focused on tracking expenses and understanding personal financial activity.
+### 💰 Expensio AI
+**Smart personal finance manager**
 
-**Tech Stack:** Next.js • React • Convex • AI Integration • Tailwind CSS
+Track expenses, view a clean dashboard and get AI-generated insights on spending habits.
 
-**Key Features:**
+`Next.js` `React` `Convex` `Tailwind` `AI`
 
-* Expense tracking
-* Financial dashboard
-* AI-powered insights
-* Modern responsive interface
+- ✅ Real-time expense tracking
+- ✅ Financial dashboard
+- ✅ AI spending insights
 
----
+[🔗 Live Demo](https://your-demo-link.com) · [📂 Source Code](https://github.com/rohitrawat18/expensio-ai)
 
-## 📊 GitHub Statistics
+</td>
+<td width="50%" valign="top">
 
-![](https://github-readme-stats.shion.dev/api?username=rohitrawat18\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+### 📱 Social Copilot *(in progress)*
+**AI social media management SaaS**
 
-![](https://streak-stats.demolab.com/?user=rohitrawat18\&theme=dark\&hide_border=false)
+An AI assistant for planning, creating and scheduling social content in one place.
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohitrawat18\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+`Next.js` `TypeScript` `AI`
 
----
+- 🚧 Currently in active development
 
-## 📈 My Development Focus
+[📂 Source Code](https://github.com/rohitrawat18)
 
-```text
-Full Stack Development  ████████████████████  100%
-Frontend Engineering     ██████████████████░░   90%
-Backend Development      ████████████████░░░░   80%
-Database Architecture    ██████████████░░░░░░   70%
-AI Integration           ███████████████░░░░░   75%
-System Design            ████████████░░░░░░░░   60%
-```
+</td>
+</tr>
+</table>
 
----
-
-## 🎯 Current Goals
-
-* Build production-ready full-stack applications.
-* Master advanced backend development and system design.
-* Explore scalable architectures and API design.
-* Integrate AI into real-world applications.
-* Contribute to open-source projects.
-* Continuously improve code quality and engineering practices.
+> 💡 **Tip:** Add a screenshot or GIF for each project (`![demo](./assets/royalcart.gif)`). Visual proof gets far more attention than text.
 
 ---
 
-## 💡 Developer Philosophy
+## 📊 GitHub Stats
 
-> "Great software is built with clean architecture, thoughtful design, and continuous improvement."
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=rohitrawat18&theme=tokyonight&hide_border=true&show_icons=true" alt="Stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rohitrawat18&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=rohitrawat18&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitrawat18&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
 
 ---
 
-## 📫 Let's Build Something Amazing
+## 🎯 Currently Working Toward
 
-I'm always interested in exploring new technologies, building innovative products, and collaborating with developers who love solving real-world problems.
-
-**Let's connect, collaborate, and create something impactful! 🚀**
+- [x] Ship full stack apps with auth, payments and AI features
+- [ ] Master system design and scalable backend architecture
+- [ ] Add automated testing (Jest, Playwright) and CI/CD to every project
+- [ ] Make my first open-source contributions
+- [ ] Deploy and monitor apps with Docker and cloud services
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=rohitrawat18\&icon=0\&color=0)](https://visitcount.itsvg.in)
+## 🤝 Let's Work Together
 
-<!-- Proudly created with GPRM --> 
+I'm open to **internships, full-time roles, freelance projects and open-source collaboration**. If you have an idea or a problem worth solving, reach out.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rawat-78533b334)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rawat41161@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitrawat18)
+
+<br/>
+
+*"Great software is built with clean architecture, thoughtful design, and continuous improvement."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
+
+<img src="https://komarev.com/ghpvc/?username=rohitrawat18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
