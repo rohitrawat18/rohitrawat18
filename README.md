@@ -9,10 +9,9 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge)](https://github.com/rohitrawat18/PORTFOLIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rawat-78533b334)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rawat41161@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-22c55e?style=for-the-badge)](https://your-resume-link.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rohitrawat18&label=Profile%20views&color=0e75b6&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/rohitrawat18?label=Followers&style=flat-square&color=0e75b6)
@@ -103,27 +102,26 @@ Product catalog, cart, orders, secure auth and payments in a fast, responsive st
 - Payment gateway integration
 - Fully responsive UI
 
-[🔗 Live Demo](https://your-demo-link.com) · [📂 Code](https://github.com/rohitrawat18/royalcart)
+[📂 Code](https://github.com/rohitrawat18/Royal-chart)
 
 <!-- <img src="./assets/royalcart.gif" alt="RoyalCart demo" /> -->
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 JobPilot AI
-**AI-powered job application platform**
+### 🌅 SUN.DOWN
+**Interactive frontend experience**
 
-Discover relevant jobs, match them against your resume and track every application in one dashboard.
+A motion-led web experience focused on visual storytelling, typography and responsive interaction.
 
-`Next.js` `TypeScript` `MongoDB` `Clerk` `OpenAI` `Recharts`
+`HTML` `CSS` `JavaScript`
 
 **Highlights**
-- Resume-based job matching
-- Application tracking dashboard
-- Analytics and data visualization
-- AI-assisted career workflows
+- Custom visual design and typography
+- Responsive layout and interactions
+- Frontend animation experiments
 
-[🔗 Live Demo](https://your-demo-link.com) · [📂 Code](https://github.com/rohitrawat18/jobpilot-ai)
+[📂 Code](https://github.com/rohitrawat18/SUN-DOWN)
 
 <!-- <img src="./assets/jobpilot.gif" alt="JobPilot demo" /> -->
 
@@ -132,20 +130,19 @@ Discover relevant jobs, match them against your resume and track every applicati
 <tr>
 <td width="50%" valign="top">
 
-### 💰 Expensio AI
-**Smart personal finance manager**
+### ⚙️ Backend Ledger
+**Backend engineering project**
 
-Track spending, see a clean dashboard and get AI-generated insights on your financial habits.
+A backend-focused repository reflecting an interest in server-side systems, APIs and reliable application logic.
 
-`Next.js` `React` `Convex` `Tailwind` `AI`
+`Backend` `APIs` `JavaScript`
 
 **Highlights**
-- Real-time expense tracking
-- Financial dashboard
-- AI-powered spending insights
-- Modern responsive interface
+- Server-side development practice
+- Backend architecture exploration
+- API-oriented implementation
 
-[🔗 Live Demo](https://your-demo-link.com) · [📂 Code](https://github.com/rohitrawat18/expensio-ai)
+[📂 Code](https://github.com/rohitrawat18/backend-ledger)
 
 </td>
 <td width="50%" valign="top">
@@ -162,13 +159,13 @@ An AI assistant for planning, creating and scheduling social content from one pl
 - Scheduling and planning workflow
 - Built as a multi-user SaaS
 
-[📂 Code](https://github.com/rohitrawat18)
+[📂 Code](https://github.com/rohitrawat18/social-copilot)
 
 </td>
 </tr>
 </table>
 
-> 📌 **More projects:** see my [pinned repositories](https://github.com/rohitrawat18?tab=repositories) or the full [portfolio](https://your-portfolio-link.com).
+> 📌 **More projects:** see my [pinned repositories](https://github.com/rohitrawat18?tab=repositories) or the full [portfolio](https://github.com/rohitrawat18/PORTFOLIO).
 
 ---
 
